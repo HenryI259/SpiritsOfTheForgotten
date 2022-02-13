@@ -1,0 +1,3 @@
+displayName = Spirits of the Forgotten
+author = ThunderMiner
+version = 0.1

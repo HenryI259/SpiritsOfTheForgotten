@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybVEgZYzJM8Xet7vAWdZUwIiLmDH/vM6vKm9X/KaR25Ene6pyk5qlTtA8cFuPRdDT+XOy1AunEedO1IP3XuItw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thund\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\SpiritsOfTheForgotten\\SpiritsOfTheForgotten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thund\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
